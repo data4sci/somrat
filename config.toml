@@ -122,18 +122,18 @@ link = "https://www.linkedin.com/in/somrat-sorkar-872581158/"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 home = "Home"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
 
 
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
+################################### Czech language #####################################
+[Languages.cs]
+languageName = "Czech"
+languageCode = "cs"
+contentDir = "content/czech"
+weight = 1
+home = "Domů"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
